@@ -1,0 +1,16 @@
+[33m5d8f626[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: Branch: renamed refs/heads/fresh-main to refs/heads/main
+[33m5d8f626[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{2}: commit (initial): Fresh SentinelAI commit
+[33m32a2e49[m HEAD@{3}: reset: moving to 32a2e49
+[33m32a2e49[m HEAD@{4}: reset: moving to 32a2e49
+[33m32a2e49[m HEAD@{5}: commit: Initial SentinelAI clean commit
+[33m96297fd[m HEAD@{6}: Branch: renamed refs/heads/clean-main to refs/heads/main
+[33m96297fd[m HEAD@{8}: commit (initial): Initial SentinelAI commit
+[33mee53c6c[m HEAD@{9}: Branch: renamed refs/heads/clean-main to refs/heads/main
+[33mee53c6c[m HEAD@{11}: commit (initial): Initial SentinelAI commit
+[33ma09c217[m HEAD@{12}: commit: Remove secrets and cache files
+[33m9c9ff21[m HEAD@{13}: commit: Final SentinelAI dashboard and threat detection
+[33m3e6d2e7[m HEAD@{14}: commit: Initial SentinelAI Project
+[33m7dcb130[m HEAD@{15}: reset: moving to HEAD~1
+[33m6809e0c[m HEAD@{16}: commit: Removed env file
+[33m7dcb130[m HEAD@{17}: Branch: renamed refs/heads/master to refs/heads/main
+[33m7dcb130[m HEAD@{19}: commit (initial): SentinelAI Progress Saved

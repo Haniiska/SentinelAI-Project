@@ -1,0 +1,21 @@
+[33m96297fd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Initial SentinelAI commit
+app.py
+backend/.env
+backend/__pycache__/main.cpython-313.pyc
+backend/main.py
+frontend/.gitignore
+frontend/README.md
+frontend/eslint.config.js
+frontend/index.html
+frontend/package-lock.json
+frontend/package.json
+frontend/public/favicon.svg
+frontend/public/icons.svg
+frontend/src/App.css
+frontend/src/App.jsx
+frontend/src/assets/hero.png
+frontend/src/assets/react.svg
+frontend/src/assets/vite.svg
+frontend/src/index.css
+frontend/src/main.jsx
+frontend/vite.config.js
