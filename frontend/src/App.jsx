@@ -24,9 +24,18 @@ function App() {
     setEmailWarning("");
 
     try {
-      const response = await fetch("https://sentinelai-project.onrender.com/analyze"),
-        {
-          method: "POST",
+      const response = await fetch(
+  "https://sentinelai-project.onrender.com/analyze",
+  {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      message,
+    }),
+  }
+);
           headers: {
             "Content-Type": "application/json",
           },
