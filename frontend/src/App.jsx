@@ -36,14 +36,7 @@ function App() {
     }),
   }
 );
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({
-            message,
-          }),
-        }
-      );
+
 
       const data = await response.json();
 
